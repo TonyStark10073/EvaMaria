@@ -23,7 +23,7 @@
 - [x] Admin Commands
 - [x] Broadcast
 - [x] Index
-- [x] IMDB search
+- [x] IMDB Search
 - [x] Inline Search
 - [x] Random pics
 - [x] ids and User info 
