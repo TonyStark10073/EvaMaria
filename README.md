@@ -49,7 +49,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 
 
 ## Deploy
-You can deploy this bot anywhere.
+You can Deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
